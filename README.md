@@ -33,5 +33,5 @@
 ---
 
 ### 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Gmail](https://img.shields.io/badge/-deliorodriguez@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deliorodriguez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/delio-rodriguez-7a4056289/))
+[![Gmail](https://img.shields.io/badge/-deliorodriguez@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deliolorenzo28@gmail.com)
