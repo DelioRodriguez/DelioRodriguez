@@ -7,14 +7,14 @@
 
 ### 💡 Sobre mí
 ✨ Desarrollador **Fullstack** con pasión por crear soluciones **modernas, escalables y visualmente atractivas**.  
-💻 Trabajo principalmente con **C# .NET**, **TypeScript**, **React** y **MySQL**.  
+💻 Trabajo principalmente con **C# .NET**, **TypeScript**, **React**, **Java** y **MySQL**.  
 ⚡ Me encanta optimizar procesos, diseñar interfaces limpias y jugar con nuevas tecnologías.  
 
 ---
 
 ### 🚀 Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,tailwind,mysql,git,github,docker,postman,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,tailwind,mysql,java,git,github,docker,postman,vscode&theme=light" />
 </p>
 
 ---
