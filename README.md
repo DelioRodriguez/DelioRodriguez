@@ -1,7 +1,7 @@
-<!-- Encabezado con animación -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋%20Hey!%20I'm%20Delio%20Rodriguez;🚀%20Fullstack%20Developer;🔥%20Building%20Modern%20and%20Scalable%20Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey!+I'm+Delio+Rodriguez;Fullstack+Developer;Building+Modern+and+Scalable+Apps" alt="Typing SVG" />
 </h1>
+
 
 
 ---
